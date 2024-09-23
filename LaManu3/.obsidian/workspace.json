@@ -130,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024-2025/Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024-2025/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024-2025/Overview.md"
+              }
             }
           }
         ]
