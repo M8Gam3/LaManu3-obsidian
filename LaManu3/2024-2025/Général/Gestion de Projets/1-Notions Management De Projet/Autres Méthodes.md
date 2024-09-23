@@ -1,0 +1,4 @@
+- **Scrum** : Méthode Agile avec itérations courtes (sprints) et réunions fréquentes
+- **PMBoK** : Guide de gestion de projet structuré par le PMI
+- **Prince2** : Organisation, gestion et contrôle de projets
+- **Méthode Waterfall (Cascade)** : Approche séquentielle étape par étape

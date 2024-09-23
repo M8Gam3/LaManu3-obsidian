@@ -1,0 +1,2 @@
+- **Fonctionnelles** : Interface utilisateur, expérience, fonctions (MOA ou MOE).
+- **Techniques** : Technologies utilisées, architecture, sécurité (rédigées par le CTO ou développeurs).

@@ -1,0 +1,5 @@
+- **S**pécifique
+- **M**esurable
+- **A**tteignable
+- **R**éaliste
+- **T**emporel

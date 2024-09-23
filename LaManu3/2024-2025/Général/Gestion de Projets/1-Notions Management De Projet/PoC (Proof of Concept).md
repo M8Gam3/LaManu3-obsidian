@@ -1,0 +1,3 @@
+- Méthode d'évaluation de la faisabilité d'un projet, souvent utilisée en **Agile** et **Design Thinking**.
+    - **Avantages** : Réduit les risques, gain de temps
+    - **Inconvénients** : Ne permet pas d’évaluer la rentabilité
