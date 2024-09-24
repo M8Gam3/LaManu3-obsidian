@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "aa97a462d0c61df8",
+    "type": "split",
+    "children": [
+      {
+        "id": "5be40514e1790f96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0c2104aac35a28a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TD-1 Application listes de Tâches.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c523cb33368bbd45",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c9c7c57188f6a18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4866c4750fe0f93",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "95c530411f75fafc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ecc6058de9959a6c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ebeaf89f7a13637d",
+    "type": "split",
+    "children": [
+      {
+        "id": "04f944fa6e7b96de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57ee4d2ce5d8d79f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TD-1 Application listes de Tâches.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a93b937fa239db6f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TD-1 Application listes de Tâches.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dffb5c1b78f069c1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "212e7a80ad2e8a1e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TD-1 Application listes de Tâches.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d0c2104aac35a28a",
+  "lastOpenFiles": [
+    "TD-1 Compréhension des Besoins pour l'Application de Gestion de Tâches.md",
+    "TD-1 Application listes de Tâches.md",
+    "TD-1 Overview.md"
+  ]
+}
