@@ -4,11 +4,11 @@
 La **clarté de la rédaction** est cruciale pour s'assurer que tous les membres de l'équipe de développement, ainsi que les parties prenantes, comprennent bien les objectifs, les fonctionnalités, et les contraintes du projet. Voici comment garantir une présentation claire pour votre projet :
 
 ##### **Rédaction Claire et Accessible**
-- **Vocabulaire Simple et Précis** : Utilisez un langage simple, sans jargon technique inutile, afin que toutes les parties prenantes (y compris les non-développeurs) puissent comprendre les exigences du projet. Par exemple, au lieu de "gestion des autorisations avec hiérarchisation des rôles", utilisez une formulation plus simple comme "les utilisateurs peuvent avoir des permissions de lecture ou d'édition sur un projet".
+- **Vocabulaire Simple et Précis** : Utilisez un langage simple, sans jargon technique inutile, afin que toutes les parties prenantes (y compris les non développeurs) puissent comprendre les exigences du projet. Par exemple, au lieu de "gestion des autorisations avec hiérarchisation des rôles", utilisez une formulation plus simple comme "les utilisateurs peuvent avoir des permissions de lecture ou d'édition sur un projet".
 - **Exemples Illustratifs** : Lorsque des fonctionnalités complexes sont décrites, il est souvent utile de fournir des exemples concrets ou des cas d'utilisation qui illustrent comment ces fonctionnalités fonctionneront. Cela aide à clarifier les attentes. Par exemple, pour la gestion des tâches, vous pouvez expliquer avec un exemple comment un utilisateur crée une tâche, la modifie, puis la marque comme terminée.
 
 ##### **Cohérence dans les Termes Utilisés**
-- **Utilisation Uniforme des Terminologies** : Lorsque vous introduisez un terme spécifique (comme "projet", "groupe de tâches", "état"), assurez-vous d’utiliser ces termes de manière cohérente tout au long du document pour éviter toute confusion.
+- **Utilisation Uniforme des Terminologies** : Lorsque vous introduisez un terme spécifique (comme "projet", "groupe de tâches", "état"), assurez vous d’utiliser ces termes de manière cohérente tout au long du document pour éviter toute confusion.
 
 ##### **Organisation Visuelle du Document**
 - **Titres et Sous-Titres** : Utilisez des titres et sous-titres pour structurer chaque section du cahier des charges de manière claire et identifiable. Chaque partie du document doit être bien délimitée : 
@@ -89,17 +89,4 @@ Chaque cas d’utilisation doit être clairement décrit et suivi des fonctionna
 
 Cette structuration garantit une progression logique, une présentation claire, et une séparation des différents aspects du projet.
 
----
-
-#### **Planification Globale sur 2 Semaines**
-
-Pour garantir l'efficacité, le projet sera divisé en plusieurs phases avec des objectifs clairs pour chaque étape. Voici une proposition de répartition du temps :
-
-- **Semaine 1** : Phase de conception et début du développement
-    - **Jour 1-2** : Finalisation des spécifications fonctionnelles et techniques
-    - **Jour 3-5** : Développement des fonctionnalités principales (gestion des projets et des tâches)
-- **Semaine 2** : Finalisation du développement, tests et ajustements
-    - **Jour 6-9** : Implémentation des fonctionnalités secondaires (sécurité, synchronisation)
-    - **Jour 10-12** : Tests fonctionnels, ajustements, et correction de bugs
-    - **Jour 13-14** : Révisions finales, validation et livraison du projet
 

@@ -95,7 +95,7 @@ L'application doit répondre aux besoins suivants :
   
 ---  
   
-#### **7. Délais et Livrables**  
+#### **[[TD-1 Gestion du Temps, Comment les 2 Semaines Sont Gérées et Utilisées|7. Délais et Livrables]]**
 - **Durée** : Le développement de l’application doit être finalisé en **2 semaines**.  
 - **Livrables** :  
 - Cahier des charges (ce document).  
@@ -103,10 +103,20 @@ L'application doit répondre aux besoins suivants :
 - Documentation utilisateur.  
 - Tests et validation des fonctionnalités.  
   
+#### **Planification Globale sur 2 Semaines**
+
+Pour garantir l'efficacité, le projet sera divisé en plusieurs phases avec des objectifs clairs pour chaque étape. Voici une proposition de répartition du temps :
+
+- **Semaine 1** : Phase de conception et début du développement
+    - **Jour 1-2** : Finalisation des spécifications fonctionnelles et techniques
+    - **Jour 3-5** : Développement des fonctionnalités principales (gestion des projets et des tâches)
+- **Semaine 2** : Finalisation du développement, tests et ajustements
+    - **Jour 6-9** : Implémentation des fonctionnalités secondaires (sécurité, synchronisation)
+    - **Jour 10-12** : Tests fonctionnels, ajustements, et correction de bugs
+    - **Jour 13-14** : Révisions finales, validation et livraison du projet
+
+
 ---  
   
 #### **9. Conclusion**  
 Ce cahier des charges fournit un cadre détaillé pour le développement de l'application de gestion de tâches, couvrant à la fois les aspects fonctionnels et techniques. Il définit les fonctionnalités, les cas d’utilisation, les spécifications techniques et les mesures de sécurité pour assurer le succès du projet.
-
-
-![[Pasted image 20240924100915.png]]

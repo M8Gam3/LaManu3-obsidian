@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Clarté et Structuration pour le Cahier des Charges de l'Application de Gestion de Tâches.md",
+                "file": "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2931e87f69aeda0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Application listes de Tâches.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Clarté et Structuration pour le Cahier des Charges de l'Application de Gestion de Tâches.md",
+                "file": "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Application listes de Tâches.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Clarté et Structuration pour le Cahier des Charges de l'Application de Gestion de Tâches.md",
+                "file": "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Application listes de Tâches.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Clarté et Structuration pour le Cahier des Charges de l'Application de Gestion de Tâches.md"
+                "file": "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Application listes de Tâches.md"
               }
             }
           }
@@ -146,16 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9615c1f8181a968",
+  "active": "2931e87f69aeda0f",
   "lastOpenFiles": [
-    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Application listes de Tâches.md",
-    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Sécurité et Authentification dans l'Application de Gestion de Tâches.md",
-    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Ponctualité, Soumission des Spécifications dans les Délais Impartis.md",
-    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Gestion du Temps, Comment les 2 Semaines Sont Gérées et Utilisées.md",
-    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Clarté et Structuration pour le Cahier des Charges de l'Application de Gestion de Tâches.md",
-    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/Cahier Des Charges.md",
     "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Overview.md",
+    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Application listes de Tâches.md",
+    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Clarté et Structuration pour le Cahier des Charges de l'Application de Gestion de Tâches.md",
+    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Gestion du Temps, Comment les 2 Semaines Sont Gérées et Utilisées.md",
+    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Database.md",
     "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Compréhension des Besoins pour l'Application de Gestion de Tâches.md",
+    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Ponctualité, Soumission des Spécifications dans les Délais Impartis.md",
+    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Sécurité et Authentification dans l'Application de Gestion de Tâches.md",
+    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/Cahier Des Charges.md",
     "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Spécifications Techniques pour l'Application de Gestion de Tâches.md",
     "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Synchronisation dans l'Application de Gestion de Tâches.md",
     "Pasted image 20240924100915.png",
@@ -184,7 +198,6 @@
     "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/Spécifications (fonctionnelles vs. techniques).md",
     "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/Méthode SMART (pour les objectifs).md",
     "2024-2025/Général/Gestion de Projets/1-Notions Management De Projet/PoC (Proof of Concept).md",
-    "2024-2025/Général/Gestion de Projets/1-Notions Management De Projet/Outils de Gestion de Projet.md",
-    "2024-2025/Général/Gestion de Projets/1-Notions Management De Projet/Notions Management De Projet.md"
+    "2024-2025/Général/Gestion de Projets/1-Notions Management De Projet/Outils de Gestion de Projet.md"
   ]
 }
