@@ -74,7 +74,7 @@ L'application doit répondre aux besoins suivants :
   
 ##### **5.1. Langage et Environnement**  
 - **Langage de programmation** : L’application peut être développée en **JavaScript** (utilisant **Node.js** pour le backend et **React** pour le frontend).  
-- **Framework** : Utilisation du framework **Express.js** pour le backend.  
+- **Framework** : Utilisation du Framework **Express.js** pour le backend.  
 - **Base de données** : Base de données **MySQL** ou **PostgreSQL** pour stocker les informations des utilisateurs, projets, tâches, etc.  
 - **Système de gestion de versions** : Utilisation de **Git** et de **GitHub** pour la gestion du code source et le versionnement du projet.  
   

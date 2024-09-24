@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TD-1 Application listes de Tâches.md",
+                "file": "TD-1 Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TD-1 Application listes de Tâches.md",
+                "file": "TD-1 Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TD-1 Application listes de Tâches.md",
+                "file": "TD-1 Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TD-1 Application listes de Tâches.md"
+                "file": "TD-1 Overview.md"
               }
             }
           }
@@ -157,13 +157,20 @@
   },
   "active": "b8991e478a29bc59",
   "lastOpenFiles": [
-    "TD1-Application liste de tâches.pdf",
+    "database.loo",
     "TD-1 Estimation des Couts du Projet.md",
-    "2024-09-24.md",
-    "TD-1 Canvas.canvas",
     "TD-1 Overview.md",
     "TD-1 Database.md",
+    "TD1-Application liste de tâches.pdf",
+    "TD-1 Synchronisation dans l'Application de Gestion de Tâches.md",
+    "TD-1 Sécurité et Authentification dans l'Application de Gestion de Tâches.md",
+    "TD-1 Spécifications Techniques pour l'Application de Gestion de Tâches.md",
+    "TD-1 Ponctualité, Soumission des Spécifications dans les Délais Impartis.md",
     "TD-1 Application listes de Tâches.md",
-    "TD-1 Compréhension des Besoins pour l'Application de Gestion de Tâches.md"
+    "TD-1 Clarté et Structuration pour le Cahier des Charges de l'Application de Gestion de Tâches.md",
+    "TD-1 Compréhension des Besoins pour l'Application de Gestion de Tâches.md",
+    "TD-1 Gestion du Temps, Comment les 2 Semaines Sont Gérées et Utilisées.md",
+    "2024-09-24.md",
+    "TD-1 Canvas.canvas"
   ]
 }
