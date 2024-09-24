@@ -20,3 +20,8 @@ Le CDC est un document crucial définissant de façon précise les besoins, obje
 
 #### [[Spécifications (fonctionnelles vs. techniques)]]
 ##### [[Exemples CDC]]
+
+---
+
+### [[TD-1 Application listes de Tâches]]
+

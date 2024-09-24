@@ -1,0 +1,11 @@
+### [[TD-1 Overview]]
+#### [[TD-1 Compréhension des Besoins pour l'Application de Gestion de Tâches]]
+
+#### [[TD-1 Synchronisation dans l'Application de Gestion de Tâches]]
+#### [[TD-1 Sécurité et Authentification dans l'Application de Gestion de Tâches]]
+#### [[TD-1 Spécifications Techniques pour l'Application de Gestion de Tâches]]
+#### [[TD-1 Clarté et Structuration pour le Cahier des Charges de l'Application de Gestion de Tâches]]
+#### [[TD-1 Ponctualité, Soumission des Spécifications dans les Délais Impartis]]
+
+#### [[TD-1 Gestion du Temps, Comment les 2 Semaines Sont Gérées et Utilisées]]
+

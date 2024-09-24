@@ -4,207 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4e692f101a0bb78d",
+        "id": "4ce979d1c1eb975a",
         "type": "tabs",
         "children": [
           {
-            "id": "afd02311fc4ba6c8",
+            "id": "f9615c1f8181a968",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-2025/Overview.md",
+                "file": "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Clarté et Structuration pour le Cahier des Charges de l'Application de Gestion de Tâches.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "a7cc1692882bb721",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-2025/Général/Général.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "39ac4be9dcda9ffd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-2025/IA/IA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7efc95a338ba8b81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-2025/Général/Gestion de Projets/Gestion de Projets.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c0735eeb21f81b94",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "5df5efec5467a383",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-2025/Général/Versionning de Code/Git-Cithub/Git-Github.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "985a8669aef96582",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-2025/Général/Versionning de Code/Git-Cithub/Introduction au Versionnement.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "78a9dab86f1ad4e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-2025/Général/Versionning de Code/Git-Cithub/Les Systèmes de Contrôle de Version (VCS).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "737297190efc6a31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-2025/Général/Versionning de Code/Git-Cithub/Architecture de Git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "52449e9a407efb33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-2025/Général/Versionning de Code/Git-Cithub/Terminologie Clé.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "27136b2c72142aec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-2025/Général/Versionning de Code/Git-Cithub/Commandes Git de Base.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d864b140ac92f97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-2025/Général/Versionning de Code/Git-Cithub/Gestion des Branches.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9aba0cf48380643d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-2025/Général/Versionning de Code/Git-Cithub/Plateformes Git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b9d03327788e46b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-2025/Général/Versionning de Code/Git-Cithub/Protection de la Branche Principale.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2971b6ba1785cc96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-2025/Général/Versionning de Code/Git-Cithub/Flux de Travail (Workflows).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "84279ebab49d7458",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-2025/Général/Versionning de Code/Git-Cithub/Avantages des Pull Requests.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c508ef631e5228c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 16
+        ]
       }
     ],
     "direction": "vertical"
@@ -270,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-2025/Overview.md",
+                "file": "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Clarté et Structuration pour le Cahier des Charges de l'Application de Gestion de Tâches.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-2025/Overview.md",
+                "file": "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Clarté et Structuration pour le Cahier des Charges de l'Application de Gestion de Tâches.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -310,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-2025/Overview.md"
+                "file": "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Clarté et Structuration pour le Cahier des Charges de l'Application de Gestion de Tâches.md"
               }
             }
           }
@@ -331,43 +146,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c508ef631e5228c",
+  "active": "f9615c1f8181a968",
   "lastOpenFiles": [
+    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Application listes de Tâches.md",
+    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Sécurité et Authentification dans l'Application de Gestion de Tâches.md",
+    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Ponctualité, Soumission des Spécifications dans les Délais Impartis.md",
+    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Gestion du Temps, Comment les 2 Semaines Sont Gérées et Utilisées.md",
+    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Clarté et Structuration pour le Cahier des Charges de l'Application de Gestion de Tâches.md",
     "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/Cahier Des Charges.md",
+    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Overview.md",
+    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Compréhension des Besoins pour l'Application de Gestion de Tâches.md",
+    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Spécifications Techniques pour l'Application de Gestion de Tâches.md",
+    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Synchronisation dans l'Application de Gestion de Tâches.md",
+    "Pasted image 20240924100915.png",
+    "Pasted image 20240924100826.png",
+    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/Exemples CDC/Cahier-des-charges-site-internet.pdf",
+    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/Exemples CDC/Cahier-des-charges-commenté-RocketProjet.com_.pdf",
+    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/Exemples CDC/LCDZ_GP_Web.pdf",
+    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/Exemples CDC/Livre-blanc-Cahier-des-charges-Oxatis.pdf",
+    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/Exemples CDC/Exemples CDC.md",
+    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/Exemples CDC/Exemple+de+cahier+des+charges.pdf",
+    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/Exemples CDC/CDC-NUAGECOM-SITE-INTERNET.pdf",
+    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/Exemples CDC/CahierDesCharges-ProjetWeb-TopazCommunication.pdf",
+    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/Exemples CDC/cahier-des-charges-site-internet-hebergement-touristique.pdf",
+    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/Exemples CDC/Cahier-des-charges-site-internet-formulaire.pdf",
+    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/Exemples CDC/cahier-des-charges-E-commerce.pdf",
+    "2024-2025/Général/Gestion de Projets/Gestion de Projets.md",
+    "2024-2025/Général/Versionning de Code/Git-Cithub/Avantages des Pull Requests.md",
+    "2024-2025/Général/Versionning de Code/Git-Cithub/Flux de Travail (Workflows).md",
+    "2024-2025/Général/Versionning de Code/Git-Cithub/Protection de la Branche Principale.md",
+    "2024-2025/Général/Versionning de Code/Versionning de Code.md",
+    "2024-2025/Général/Général.md",
+    "2024-2025/Dev/Dev.md",
     "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/10 étapes pour rédiger un CDC.md",
     "2024-2025/Général/Versionning de Code/Git-Cithub/Git-Github.md",
-    "2024-2025/Général/Versionning de Code/Versionning de Code.md",
-    "2024-2025/Général/Gestion de Projets/Gestion de Projets.md",
     "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/Types de CDC.md",
     "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/Spécifications (fonctionnelles vs. techniques).md",
     "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/Méthode SMART (pour les objectifs).md",
     "2024-2025/Général/Gestion de Projets/1-Notions Management De Projet/PoC (Proof of Concept).md",
     "2024-2025/Général/Gestion de Projets/1-Notions Management De Projet/Outils de Gestion de Projet.md",
-    "2024-2025/Général/Gestion de Projets/1-Notions Management De Projet/Notions Management De Projet.md",
-    "2024-2025/Général/Gestion de Projets/1-Notions Management De Projet/Méthodologie de Gestion de Projet.md",
-    "2024-2025/Général/Gestion de Projets/1-Notions Management De Projet/Méthodes de Gestion de Projets.md",
-    "2024-2025/Général/Gestion de Projets/1-Notions Management De Projet/Les 7 Étapes Clés.md",
-    "2024-2025/Général/Gestion de Projets/1-Notions Management De Projet/Autres Méthodes.md",
-    "2024-2025/Général/Versionning de Code/Git-Cithub/Terminologie Clé.md",
-    "2024-2025/Général/Versionning de Code/[GIT-GITHUB]-Cours_Avancé.pdf",
-    "2024-2025/Général/Versionning de Code/Git-Cithub/Architecture de Git.md",
-    "2024-2025/Général/Versionning de Code/Git-Cithub/Gestion des Branches.md",
-    "2024-2025/Général/Versionning de Code/Git-Cithub/Conclusion.md",
-    "2024-2025/Général/Versionning de Code/Git-Cithub/Protection de la Branche Principale.md",
-    "2024-2025/Général/Versionning de Code/Git-Cithub/Plateformes Git.md",
-    "2024-2025/Général/Versionning de Code/Git-Cithub/Les Systèmes de Contrôle de Version (VCS).md",
-    "2024-2025/Général/Versionning de Code/Git-Cithub/Introduction au Versionnement.md",
-    "2024-2025/Général/Versionning de Code/Git-Cithub/Flux de Travail (Workflows).md",
-    "2024-2025/Général/Versionning de Code/Git-Cithub/Commandes Git de Base.md",
-    "2024-2025/Général/Versionning de Code/Git-Cithub/Avantages des Pull Requests.md",
-    "2024-2025/Général/Versionning de Code/Git-Cithub",
-    "2024-2025",
-    "2024-2025/IA",
-    "2024-2025/Dev",
-    "2024-2025/Data",
-    "2024-2025/Général",
-    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/PREZ2-Cahier Des Charges.pdf",
-    "2024-2025/Général/Gestion de Projets/1-Notions Management De Projet/PREZ1-Notions Management De Projet.pdf",
-    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/Exemples CDC/Livre-blanc-Cahier-des-charges-Oxatis.pdf"
+    "2024-2025/Général/Gestion de Projets/1-Notions Management De Projet/Notions Management De Projet.md"
   ]
 }
