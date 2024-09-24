@@ -8,5 +8,6 @@
 #### [[TD-1 Ponctualité, Soumission des Spécifications dans les Délais Impartis]]
 
 #### [[TD-1 Gestion du Temps, Comment les 2 Semaines Sont Gérées et Utilisées]]
+#### [[TD-1 Estimation des Couts du Projet]]
 
 ###### [[TD-1 Database]]
