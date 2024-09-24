@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"6e3986fbd5166ebe","type":"file","file":"TD1-Application liste de tâches.pdf","x":-34,"y":-1280,"width":400,"height":400},
+		{"id":"85d4fb83a3721e1c","type":"file","file":"TD-1 Application listes de Tâches.md","x":-34,"y":-711,"width":400,"height":400},
+		{"id":"9f2312ceb243b460","type":"file","file":"TD-1 Gestion du Temps, Comment les 2 Semaines Sont Gérées et Utilisées.md","x":-560,"y":-12,"width":400,"height":400},
+		{"id":"49956e58cf913561","type":"file","file":"TD-1 Clarté et Structuration pour le Cahier des Charges de l'Application de Gestion de Tâches.md","x":-1120,"y":-12,"width":400,"height":400},
+		{"id":"a40c2a4756b5c0e5","type":"file","file":"TD-1 Compréhension des Besoins pour l'Application de Gestion de Tâches.md","x":484,"y":-12,"width":400,"height":400},
+		{"id":"2d49b133d67fd5f2","type":"file","file":"TD-1 Overview.md","x":-34,"y":-12,"width":400,"height":400},
+		{"id":"98d02cbd7c2bfff9","type":"file","file":"TD-1 Synchronisation dans l'Application de Gestion de Tâches.md","x":1040,"y":-12,"width":400,"height":400},
+		{"id":"3f0478068ccce2ac","type":"file","file":"TD-1 Spécifications Techniques pour l'Application de Gestion de Tâches.md","x":1600,"y":-12,"width":400,"height":400},
+		{"id":"5fa469974eafe086","type":"file","file":"TD-1 Sécurité et Authentification dans l'Application de Gestion de Tâches.md","x":-1680,"y":-12,"width":400,"height":400},
+		{"id":"114f1e66f7b16109","type":"file","file":"TD-1 Database.md","x":-2240,"y":-12,"width":400,"height":400},
+		{"id":"378134eab4c182aa","type":"file","file":"TD-1 Ponctualité, Soumission des Spécifications dans les Délais Impartis.md","x":2160,"y":-12,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"4bbd570e01ee8354","fromNode":"85d4fb83a3721e1c","fromSide":"bottom","toNode":"49956e58cf913561","toSide":"top"},
+		{"id":"47fc0c134b5f1ea5","fromNode":"85d4fb83a3721e1c","fromSide":"bottom","toNode":"a40c2a4756b5c0e5","toSide":"top"},
+		{"id":"4a0d16bb7fad17b5","fromNode":"85d4fb83a3721e1c","fromSide":"bottom","toNode":"114f1e66f7b16109","toSide":"top"},
+		{"id":"ca232f51bbf0163c","fromNode":"6e3986fbd5166ebe","fromSide":"bottom","toNode":"85d4fb83a3721e1c","toSide":"top"},
+		{"id":"328c367626143c4f","fromNode":"85d4fb83a3721e1c","fromSide":"bottom","toNode":"9f2312ceb243b460","toSide":"top"},
+		{"id":"b9e5e0c8bce33936","fromNode":"85d4fb83a3721e1c","fromSide":"bottom","toNode":"2d49b133d67fd5f2","toSide":"top"},
+		{"id":"69b4f8bc4120d1a7","fromNode":"85d4fb83a3721e1c","fromSide":"bottom","toNode":"98d02cbd7c2bfff9","toSide":"top"},
+		{"id":"75efaf3a1f9c75ef","fromNode":"85d4fb83a3721e1c","fromSide":"bottom","toNode":"378134eab4c182aa","toSide":"top"},
+		{"id":"0db31ee1dd11bf1d","fromNode":"85d4fb83a3721e1c","fromSide":"bottom","toNode":"5fa469974eafe086","toSide":"top"},
+		{"id":"0295041e9f609c04","fromNode":"85d4fb83a3721e1c","fromSide":"bottom","toNode":"3f0478068ccce2ac","toSide":"top"},
+		{"id":"cf3994a7bc249f83","fromNode":"2d49b133d67fd5f2","fromSide":"bottom","toNode":"9f2312ceb243b460","toSide":"bottom"},
+		{"id":"60af5d93a3da0a79","fromNode":"2d49b133d67fd5f2","fromSide":"bottom","toNode":"49956e58cf913561","toSide":"bottom"},
+		{"id":"8283571b4ff2a154","fromNode":"2d49b133d67fd5f2","fromSide":"bottom","toNode":"5fa469974eafe086","toSide":"bottom"},
+		{"id":"356f77adbf428180","fromNode":"2d49b133d67fd5f2","fromSide":"bottom","toNode":"a40c2a4756b5c0e5","toSide":"bottom"},
+		{"id":"958a80b87e1b08c1","fromNode":"2d49b133d67fd5f2","fromSide":"bottom","toNode":"98d02cbd7c2bfff9","toSide":"bottom"},
+		{"id":"31a8e303198c1e06","fromNode":"2d49b133d67fd5f2","fromSide":"bottom","toNode":"3f0478068ccce2ac","toSide":"bottom"},
+		{"id":"fd4451f5a46ec98d","fromNode":"2d49b133d67fd5f2","fromSide":"bottom","toNode":"378134eab4c182aa","toSide":"bottom"},
+		{"id":"8cb4157074b7c993","fromNode":"2d49b133d67fd5f2","fromSide":"bottom","toNode":"114f1e66f7b16109","toSide":"bottom"}
+	]
+}

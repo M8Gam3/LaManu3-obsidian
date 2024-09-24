@@ -11,12 +11,8 @@
             "id": "d0c2104aac35a28a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TD-1 Overview.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TD-1 Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TD-1 Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "TD-1 Overview.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,9 +140,11 @@
   },
   "active": "d0c2104aac35a28a",
   "lastOpenFiles": [
+    "2024-09-24.md",
+    "TD-1 Canvas.canvas",
+    "TD-1 Overview.md",
     "TD-1 Database.md",
     "TD-1 Application listes de Tâches.md",
-    "TD-1 Compréhension des Besoins pour l'Application de Gestion de Tâches.md",
-    "TD-1 Overview.md"
+    "TD-1 Compréhension des Besoins pour l'Application de Gestion de Tâches.md"
   ]
 }
