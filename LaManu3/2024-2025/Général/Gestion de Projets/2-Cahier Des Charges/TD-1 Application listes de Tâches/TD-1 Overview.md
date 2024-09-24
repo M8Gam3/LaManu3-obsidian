@@ -117,6 +117,19 @@ Pour garantir l'efficacité, le projet sera divisé en plusieurs phases avec des
 
 
 ---  
-  
+
+### [[TD-1 Estimation des Couts du Projet|8. Estimation du coût du projet]]
+
+| Rôle                 | Taux Journalier | Jours | Coût Total  |
+|----------------------|------------------|-------|-------------|
+| Chef de Projet       | 400 €            | 10    | 4000 €      |
+| Développeur Full-Stack 1 | 300 €        | 10    | 3000 €      |
+| Développeur Full-Stack 2 | 300 €        | 10    | 3000 €      |
+| **Total sans charges**     |                  |       | **10000 €** |
+| **Charges (30%)**          |                  |       | **3000 €**  |
+| **Total avec charges**     |                  |       | **13000 €** |
+
+---
+
 #### **9. Conclusion**  
 Ce cahier des charges fournit un cadre détaillé pour le développement de l'application de gestion de tâches, couvrant à la fois les aspects fonctionnels et techniques. Il définit les fonctionnalités, les cas d’utilisation, les spécifications techniques et les mesures de sécurité pour assurer le succès du projet.
