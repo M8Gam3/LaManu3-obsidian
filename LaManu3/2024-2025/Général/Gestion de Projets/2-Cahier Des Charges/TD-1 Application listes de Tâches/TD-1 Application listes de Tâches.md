@@ -1,4 +1,4 @@
-## [[TD-1 Cahier des charges]] charges]]
+## [[TD-1 Cahier des charges]]
 #### [[TD-1 Compréhension des Besoins pour l'Application de Gestion de Tâches]]
 
 #### [[TD-1 Synchronisation dans l'Application de Gestion de Tâches]]
