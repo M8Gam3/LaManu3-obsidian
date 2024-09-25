@@ -1,3 +1,7 @@
+---
+tags:
+  - MéthodesAgiles
+---
 
 1. **Consultation du menu**  
     _En tant que client, je veux consulter le menu avec les descriptions des plats et les prix, afin de pouvoir choisir ce que je souhaite commander._

@@ -1,3 +1,7 @@
+---
+tags:
+  - GestionDeProjets
+---
 
 #### **1. Choix du Langage de Programmation et de la Plateforme**
 

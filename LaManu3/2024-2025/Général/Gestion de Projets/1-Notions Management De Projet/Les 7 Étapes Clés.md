@@ -1,3 +1,7 @@
+---
+tags:
+  - GestionDeProjets
+---
 ## Les 7 Étapes Clés de la Gestion de Projet
 
 ### 1. Établir un État des Lieux

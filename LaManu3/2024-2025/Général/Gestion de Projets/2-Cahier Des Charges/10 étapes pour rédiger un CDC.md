@@ -1,3 +1,7 @@
+---
+tags:
+  - GestionDeProjets
+---
 ### 1. Présenter l'entreprise
 
 - **Secteur** : Identifier le secteur d'activité (ex. technologie, santé, finance) et son positionnement sur le marché.

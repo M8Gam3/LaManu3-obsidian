@@ -1,3 +1,7 @@
+---
+tags:
+  - MéthodesAgiles
+---
 1. **Consultation du menu** (priorité haute)  
     Justification : Il s'agit de la fonctionnalité de base, sans laquelle l'application n'a pas de sens. Les clients doivent pouvoir voir les plats avant de passer commande.
     

@@ -1,3 +1,7 @@
+---
+tags:
+  - VersionningDeCode
+---
 ### Synthèse : Importance de Git et GitHub dans le Développement Moderne
 
 Git et GitHub ont révolutionné la manière dont les développeurs gèrent le code source et collaborent sur des projets. Voici quelques points clés soulignant leur importance :

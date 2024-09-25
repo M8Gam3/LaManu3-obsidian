@@ -1,3 +1,7 @@
+---
+tags:
+  - GestionDeProjets
+---
 #### **1. Clarté dans la Compréhension des Besoins du Projet**
 L’objectif principal du projet est de fournir une **application de gestion de tâches** simple et efficace, destinée à une utilisation collaborative. L'application doit permettre :
 - **Gestion des utilisateurs** : création de comptes, connexion, déconnexion.

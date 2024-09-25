@@ -1,3 +1,7 @@
+---
+tags:
+  - GestionDeProjets
+---
 [[PREZ2-Cahier Des Charges.pdf]]
 ### Cahier des Charges (CDC) - Résumé
 

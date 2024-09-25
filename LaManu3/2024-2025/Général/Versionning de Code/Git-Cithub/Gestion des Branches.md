@@ -1,3 +1,7 @@
+---
+tags:
+  - VersionningDeCode
+---
 ### Importance des Branches
 
 L'utilisation des branches dans Git est cruciale pour plusieurs raisons :

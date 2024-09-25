@@ -1,2 +1,6 @@
+---
+tags:
+  - MéthodesAgiles
+---
 ### [[Cours]]
 ### [[Exercices]]

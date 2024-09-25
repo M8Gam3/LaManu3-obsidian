@@ -1,3 +1,7 @@
+---
+tags:
+  - VersionningDeCode
+---
 ### Définition
 
 Le versionnement est le processus de gestion des modifications apportées à un projet au fil du temps. Il permet de suivre l'historique des modifications, de gérer les contributions de plusieurs développeurs et de restaurer des versions antérieures en cas de besoin.

@@ -1,3 +1,7 @@
+---
+tags:
+  - GestionDeProjets
+---
 Pour estimer le coût du projet de développement de l'application de gestion de tâches sur une période de deux semaines avec une équipe composée d'un chef de projet et de deux développeurs full-stack, plusieurs facteurs doivent être pris en compte, notamment les salaires journaliers, le temps alloué à chaque rôle, et les charges sociales. Voici une estimation détaillée :
 
 ### Estimation des Coûts du Projet

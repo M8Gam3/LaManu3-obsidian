@@ -1,3 +1,7 @@
+---
+tags:
+  - GestionDeProjets
+---
 ### Critères de Choix pour la Méthode de Gestion de Projet
 
 Le choix d'une méthode de gestion de projet est crucial et doit être basé sur plusieurs critères qui peuvent influencer le succès du projet. Voici une explication détaillée de ces critères :

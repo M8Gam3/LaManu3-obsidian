@@ -1,3 +1,7 @@
+---
+tags:
+  - MéthodesAgiles
+---
 
 Voici l'organisation des rôles clés de l’équipe pour ce projet, ainsi que la description des cérémonies Scrum associées.
 

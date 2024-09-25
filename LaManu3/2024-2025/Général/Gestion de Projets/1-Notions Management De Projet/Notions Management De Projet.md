@@ -1,3 +1,7 @@
+---
+tags:
+  - GestionDeProjets
+---
 [[PREZ1-Notions Management De Projet.pdf]]
 # Gestion de Projet Informatique
 ## Introduction

@@ -1,3 +1,7 @@
+---
+tags:
+  - GestionDeProjets
+---
 ### Types de Cahier des Charges (CDC)
 
 Le Cahier des Charges (CDC) est un document essentiel qui sert de guide tout au long d'un projet. Il peut être divisé en plusieurs types selon les besoins et les spécificités du projet. Deux des types les plus courants sont le CDC fonctionnel et le CDC technique.

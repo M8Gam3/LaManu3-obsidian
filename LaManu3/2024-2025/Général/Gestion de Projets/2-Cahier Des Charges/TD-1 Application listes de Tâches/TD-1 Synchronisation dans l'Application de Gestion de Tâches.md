@@ -1,3 +1,7 @@
+---
+tags:
+  - GestionDeProjets
+---
 #### **1. Explication de la Mise en Œuvre de la Synchronisation des Données**
 
 La synchronisation des données est cruciale pour permettre à plusieurs utilisateurs de collaborer en temps réel sur un projet. Dans votre application de gestion de tâches, voici les éléments essentiels concernant la synchronisation des données :

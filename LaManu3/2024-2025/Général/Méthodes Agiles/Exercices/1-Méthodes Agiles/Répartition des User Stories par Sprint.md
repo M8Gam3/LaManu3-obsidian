@@ -1,3 +1,7 @@
+---
+tags:
+  - MéthodesAgiles
+---
 
 Voici l'organisation des 15 user stories réparties dans 4 sprints de 2 semaines, en tenant compte de la priorité des fonctionnalités et de la complexité de chaque tâche.
 

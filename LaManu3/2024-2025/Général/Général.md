@@ -1,3 +1,7 @@
+---
+tags:
+  - Général
+---
 ### [[Gestion de Projets]]
 
 ### [[Versionning de Code]]

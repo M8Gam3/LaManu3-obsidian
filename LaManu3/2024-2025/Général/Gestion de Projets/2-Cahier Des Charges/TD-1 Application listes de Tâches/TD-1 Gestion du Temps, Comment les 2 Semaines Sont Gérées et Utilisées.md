@@ -1,3 +1,7 @@
+---
+tags:
+  - GestionDeProjets
+---
 
 Le développement de l'application doit être réalisé dans un délai de **2 semaines**, un laps de temps limité qui nécessite une gestion optimale. Pour s'assurer que chaque aspect du projet soit bien traité dans ce délai, voici une répartition et une gestion stratégique du temps :
 

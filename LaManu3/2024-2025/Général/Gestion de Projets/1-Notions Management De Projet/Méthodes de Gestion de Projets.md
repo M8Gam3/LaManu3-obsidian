@@ -1,3 +1,7 @@
+---
+tags:
+  - GestionDeProjets
+---
 ## Méthodes de Gestion de Projet
 
 ### Méthodes Agiles

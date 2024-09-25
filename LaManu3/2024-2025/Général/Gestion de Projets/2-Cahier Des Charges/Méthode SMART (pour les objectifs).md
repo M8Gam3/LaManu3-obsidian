@@ -1,3 +1,7 @@
+---
+tags:
+  - GestionDeProjets
+---
 ### Méthode SMART pour la définition des objectifs
 
 La méthode SMART est un cadre efficace pour formuler des objectifs clairs et atteignables. Chaque lettre de l’acronyme représente un critère essentiel à prendre en compte lors de la définition des objectifs.

@@ -1,3 +1,7 @@
+---
+tags:
+  - GestionDeProjets
+---
 ### Méthode d'Évaluation de la Faisabilité d'un Projet
 
 L'évaluation de la faisabilité est un processus crucial dans la gestion de projet, surtout dans les approches **Agile** et **Design Thinking**. Cette méthode vise à déterminer si un projet est réalisable et s'il répond aux besoins des parties prenantes tout en respectant les contraintes de temps, de coût et de qualité.

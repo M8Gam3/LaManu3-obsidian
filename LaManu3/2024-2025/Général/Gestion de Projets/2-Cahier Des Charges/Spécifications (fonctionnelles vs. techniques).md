@@ -1,3 +1,7 @@
+---
+tags:
+  - GestionDeProjets
+---
 ### Spécifications Fonctionnelles et Techniques
 
 Les spécifications sont des éléments essentiels du cahier des charges, permettant de définir clairement ce que le projet doit accomplir et comment il doit le faire. Elles se divisent principalement en deux catégories : fonctionnelles et techniques.

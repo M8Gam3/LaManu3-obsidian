@@ -1,3 +1,7 @@
+---
+tags:
+  - VersionningDeCode
+---
 ### Glossaire
 
 #### 1. Définitions des Termes Clés

@@ -1,3 +1,7 @@
+---
+tags:
+  - GestionDeProjets
+---
 
 Dans le cadre de votre projet de développement d'une application de gestion de tâches, **respecter les délais impartis** est un aspect clé pour garantir le bon déroulement du projet et la satisfaction des parties prenantes. Voici comment aborder ce point en détail pour votre cahier des charges :
 

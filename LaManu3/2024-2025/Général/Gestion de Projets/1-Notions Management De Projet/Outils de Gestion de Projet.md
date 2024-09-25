@@ -1,3 +1,7 @@
+---
+tags:
+  - GestionDeProjets
+---
 ## Outils de Gestion de Projet
 
 La gestion de projet s'appuie sur divers outils pour planifier, suivre et contrôler les activités. Voici une description détaillée des outils les plus couramment utilisés :

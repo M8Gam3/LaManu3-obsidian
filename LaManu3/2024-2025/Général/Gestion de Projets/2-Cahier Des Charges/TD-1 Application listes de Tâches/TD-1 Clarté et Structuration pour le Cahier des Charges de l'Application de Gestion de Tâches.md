@@ -1,3 +1,7 @@
+---
+tags:
+  - GestionDeProjets
+---
 
 #### **1. Clarté de la Rédaction et de la Présentation**
 

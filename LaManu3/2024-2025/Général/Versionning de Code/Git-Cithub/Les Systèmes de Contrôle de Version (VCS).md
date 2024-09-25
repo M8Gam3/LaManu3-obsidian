@@ -1,3 +1,7 @@
+---
+tags:
+  - VersionningDeCode
+---
 ### Types de Systèmes de Contrôle de Version (VCS)
 
 #### 1. Contrôle Centralisé
