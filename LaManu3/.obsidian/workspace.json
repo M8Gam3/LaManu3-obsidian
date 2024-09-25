@@ -11,8 +11,12 @@
             "id": "f9615c1f8181a968",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024-2025/Général/Méthodes Agiles/Exercices/1-Méthodes Agiles/Répartition des User Stories par Sprint.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 267.5
   },
   "right": {
     "id": "96af6b30867f9a24",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024-2025/Général/Méthodes Agiles/Exercices/1-Méthodes Agiles/Répartition des User Stories par Sprint.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024-2025/Général/Méthodes Agiles/Exercices/1-Méthodes Agiles/Répartition des User Stories par Sprint.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024-2025/Général/Méthodes Agiles/Exercices/1-Méthodes Agiles/Répartition des User Stories par Sprint.md"
+              }
             }
           }
         ]
@@ -140,6 +148,32 @@
   },
   "active": "f9615c1f8181a968",
   "lastOpenFiles": [
+    "2024-2025/Général/Méthodes Agiles/Exercices/1-Méthodes Agiles/User Stories.md",
+    "2024-2025/Général/Méthodes Agiles/Exercices/1-Méthodes Agiles/Répartition des User Stories par Sprint.md",
+    "2024-2025/Général/Méthodes Agiles/Exercices/1-Méthodes Agiles/Rôles et cérémonies Scrum.md",
+    "2024-2025/Général/Méthodes Agiles/Exercices/1-Méthodes Agiles/Méthodes Agiles.md",
+    "2024-2025/Général/Méthodes Agiles/Exercices/1-Méthodes Agiles/Backlog.md",
+    "2024-2025/Général/Général.md",
+    "2024-2025/Général/Méthodes Agiles/Méthodes Agiles.md",
+    "2024-2025/Général/Méthodes Agiles/Exercices/Exercices.md",
+    "2024-2025/Général/Méthodes Agiles/Exercices/1-Méthodes Agiles",
+    "2024-2025/Général/Méthodes Agiles/Cours/Cours.md",
+    "2024-2025/Général/Méthodes Agiles/Cours/Untitled",
+    "2024-2025/Général/Méthodes Agiles/Exercices",
+    "2024-2025/Général/Méthodes Agiles/Cours",
+    "2024-2025/Général/Méthodes Agiles",
+    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Application listes de Tâches.md",
+    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Cahier des charges.md",
+    "TD-1 Overview.md",
+    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Clarté et Structuration pour le Cahier des Charges de l'Application de Gestion de Tâches.md",
+    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Gestion du Temps, Comment les 2 Semaines Sont Gérées et Utilisées.md",
+    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Sécurité et Authentification dans l'Application de Gestion de Tâches.md",
+    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD1-Application liste de tâches.pdf",
+    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Synchronisation dans l'Application de Gestion de Tâches.md",
+    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Spécifications Techniques pour l'Application de Gestion de Tâches.md",
+    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Ponctualité, Soumission des Spécifications dans les Délais Impartis.md",
+    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Estimation des Couts du Projet.md",
+    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Compréhension des Besoins pour l'Application de Gestion de Tâches.md",
     "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches - Marius Hazart.zip",
     "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches.zip",
     "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Databse/database.lo1",
@@ -147,25 +181,8 @@
     "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Databse/Databse-EA.png",
     "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Databse/Database-MLD.png",
     "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Databse/database.loo",
-    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Databse",
-    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/Nouveau dossier",
     "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/Database-MLD.png",
     "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/Databse-EA.png",
-    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches - Marius HAZART.zip",
-    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 PDF/TD-1 Synchronisation dans l'Application de Gestion de Tâches.pdf",
-    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 PDF/TD-1 Spécifications Techniques pour l'Application de Gestion de Tâches.pdf",
-    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 PDF/TD-1 Sécurité et Authentification dans l'Application de Gestion de Tâches.pdf",
-    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 PDF/TD-1 Ponctualité, Soumission des Spécifications dans les Délais Impartis.pdf",
-    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Cahier des charges.md",
-    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Application listes de Tâches.md",
-    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Synchronisation dans l'Application de Gestion de Tâches.md",
-    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Spécifications Techniques pour l'Application de Gestion de Tâches.md",
-    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Sécurité et Authentification dans l'Application de Gestion de Tâches.md",
-    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Gestion du Temps, Comment les 2 Semaines Sont Gérées et Utilisées.md",
-    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Estimation des Couts du Projet.md",
-    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Clarté et Structuration pour le Cahier des Charges de l'Application de Gestion de Tâches.md",
-    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Compréhension des Besoins pour l'Application de Gestion de Tâches.md",
-    "TD-1 Overview.md",
     "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Overview.md",
     "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/database.png",
     "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/image.png",
@@ -176,17 +193,8 @@
     "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Canvas.canvas",
     "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/Untitled.canvas",
     "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/2024-09-24.md",
-    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Ponctualité, Soumission des Spécifications dans les Délais Impartis.md",
     "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/Cahier Des Charges.md",
     "Pasted image 20240924100915.png",
-    "Pasted image 20240924100826.png",
-    "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/Exemples CDC/Exemples CDC.md",
-    "2024-2025/Général/Gestion de Projets/Gestion de Projets.md",
-    "2024-2025/Général/Versionning de Code/Git-Cithub/Avantages des Pull Requests.md",
-    "2024-2025/Général/Versionning de Code/Git-Cithub/Flux de Travail (Workflows).md",
-    "2024-2025/Général/Versionning de Code/Git-Cithub/Protection de la Branche Principale.md",
-    "2024-2025/Général/Versionning de Code/Versionning de Code.md",
-    "2024-2025/Général/Général.md",
-    "2024-2025/Dev/Dev.md"
+    "Pasted image 20240924100826.png"
   ]
 }
