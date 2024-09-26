@@ -133,9 +133,7 @@ Voici une version complète, incluant les nouvelles user stories pour le gérant
     ^vi7wmd
 
 25. **Notification des clients en cas de rupture de stock** (priorité moyenne)  
-    _En tant que gérant, je
-
- veux pouvoir informer automatiquement les clients lorsqu'un plat n'est plus disponible, afin d'éviter les commandes de plats indisponibles._  
+    _En tant que gérant, je veux pouvoir informer automatiquement les clients lorsqu'un plat n'est plus disponible, afin d'éviter les commandes de plats indisponibles._  
     Justification : Améliore la gestion des attentes des clients, mais pas essentiel au lancement initial.  
     ^xg32nb
 
