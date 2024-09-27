@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-2025/Général/UML/Diagramme de Séquence.md",
+                "file": "2024-2025/Général/UML/EVAL-La bibliothèque-Restitution/EVAL-La bibliothèque-Restitution.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,15 +35,14 @@
             "id": "b9e3cf607e93cdf8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "2024-2025/Général/Versionning de Code/Git-Cithub/Git-Github.md",
-                "mode": "source",
-                "source": false
+                "file": "2024-2025/Général/Versionning de Code/Git-Cithub/[GIT-GITHUB]-Cours_Avancé.pdf"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-2025/Général/UML/Diagramme de Séquence.md",
+                "file": "2024-2025/Général/Versionning de Code/Git-Cithub/[GIT-GITHUB]-Cours_Avancé.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-2025/Général/UML/Diagramme de Séquence.md",
+                "file": "2024-2025/Général/Versionning de Code/Git-Cithub/[GIT-GITHUB]-Cours_Avancé.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-2025/Général/UML/Diagramme de Séquence.md"
+                "file": "2024-2025/Général/Versionning de Code/Git-Cithub/[GIT-GITHUB]-Cours_Avancé.pdf"
               }
             }
           }
@@ -171,14 +170,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d5615567d3ee8ea",
+  "active": "4871dcc1fd0bd8b9",
   "lastOpenFiles": [
-    "2024-2025/Général/UML/UML - Unified Modeling Language.md",
+    "2024-2025/Général/Versionning de Code/Git-Github Avancé",
     "2024-2025/Général/UML/UML.md",
+    "2024-2025/Général/Versionning de Code/Git-Cithub/Git-Github.md",
+    "2024-2025/Général/UML/EVAL-La bibliothèque-Restitution/EVAL-La bibliothèque-Restitution.md",
+    "2024-2025/Général/UML/EVAL-La bibliothèque-Restitution/EVAL-La bibliothèque.pdf",
+    "2024-2025/Général/UML/Diagramme de Classes.md",
+    "2024-2025/Général/UML/EVAL-La bibliothèque-Restitution",
+    "2024-2025/Général/UML/Diagramme de cas d'utilisation.md",
+    "2024-2025/Général/UML/Diagramme de Séquence.md",
+    "2024-2025/Général/UML/UML - Unified Modeling Language.md",
     "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Application listes de Tâches.md",
     "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Canvas.canvas",
     "2024-2025/Général/UML/Diagramme de Déploiement.md",
-    "2024-2025/Général/Versionning de Code/Git-Cithub/Git-Github.md",
     "2024-2025/Général/Versionning de Code/Git-Cithub/[GIT-GITHUB]-Cours_Avancé.pdf",
     "2024-2025/Général/Versionning de Code/Versionning de Code.md",
     "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/TD-1 Databse/Database.md",
@@ -199,10 +205,7 @@
     "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/Exemples CDC/Untitled.md",
     "2024-2025/Général/UML/documents/Prez_UML.pdf",
     "2024-2025/Général/UML/documents/deploiment/deploiment_1.png",
-    "2024-2025/Général/UML/Diagramme de Classes.md",
     "2024-2025/Général/UML/documents/deploiment",
-    "2024-2025/Général/UML/Diagramme de cas d'utilisation.md",
-    "2024-2025/Général/UML/Diagramme de Séquence.md",
     "2024-2025/Général/UML/documents/classe/classe_10.png",
     "2024-2025/Général/UML/documents/classe/classe_9.png",
     "2024-2025/Général/UML/documents/classe/classe_8.png",
@@ -210,15 +213,12 @@
     "2024-2025/Général/UML/documents/classe/classe_6.png",
     "2024-2025/Général/UML/documents/classe/classe_5.png",
     "2024-2025/Général/UML/documents/classe",
-    "2024-2025/Général/UML/documents/sequence",
-    "2024-2025/Général/UML/documents/use case",
     "2024-2025/Général/Général.md",
     "2024-2025/Général/Méthodes Agiles/Exercices/1-Méthodes Agiles/Backlog.md",
     "2024-2025/Général/Méthodes Agiles/Exercices/1-Méthodes Agiles/Rôles et cérémonies Scrum.md",
     "2024-2025/Général/Méthodes Agiles/Exercices/1-Méthodes Agiles/User Stories.md",
     "2024-2025/Général/Méthodes Agiles/Exercices/1-Méthodes Agiles/1-Méthodes Agiles.md",
     "2024-2025/Général/Méthodes Agiles/Exercices/1-Méthodes Agiles/Trello.md",
-    "2024-2025/Général/Méthodes Agiles/Exercices/1-Méthodes Agiles/Répartition des User Stories par Sprint.md",
     "2024-2025/Général/Gestion de Projets/2-Cahier Des Charges/TD-1 Application listes de Tâches/Untitled.canvas"
   ]
 }
