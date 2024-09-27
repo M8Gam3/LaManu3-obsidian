@@ -14,3 +14,6 @@ tags:
 ### 9. [[Flux de Travail (Workflows)]]
 ### 10. [[Avantages des Pull Requests]]
 ### 11. [[Conclusion]]
+
+
+![[[GIT-GITHUB]-Cours_Avancé.pdf]]
